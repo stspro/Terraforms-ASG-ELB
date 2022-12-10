@@ -1,1 +1,2 @@
-# Terraforms-ASG-ELB
+## terraforms-asg-elb
+Basic terraform scripts to create ELB-ASG
